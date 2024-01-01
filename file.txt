@@ -1,1 +1,2 @@
 Hello world. this is my first file in GIT
+I amadding some text in this repo
