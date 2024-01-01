@@ -1,1 +1,2 @@
 Hello world. this is my first file in GIT
+Hi am adding this message fortesting by Logan
